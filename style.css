@@ -1,0 +1,42 @@
+.wrap{
+    background: black;
+    
+}
+
+.header{
+    background: peachpuff;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.Navigasi{
+    background: orange;
+    padding: 3px;
+    margin-bottom: 10px;
+
+
+}
+
+.sidebar{
+    background:gold;
+    padding: 10px;
+    float: left ;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 26%                        ;
+
+}
+
+.content{
+    float: right;
+    background: red;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 200px;
+    width:70%;
+}
+
+.footer{
+    background: coral;
+    padding: 10px;
+}
